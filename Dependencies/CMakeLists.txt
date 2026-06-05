@@ -1,0 +1,13 @@
+add_subdirectory(tracy)
+add_subdirectory(lua)
+add_subdirectory(glad)
+add_subdirectory(glfw)
+add_subdirectory(freetype)
+add_subdirectory(soloud)
+add_subdirectory(tinyxml2)
+add_subdirectory(assimp)
+add_subdirectory(bullet3)
+add_subdirectory(ImGui)
+
+add_subdirectory(sol)
+add_subdirectory(stb_image)
